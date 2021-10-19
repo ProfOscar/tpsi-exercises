@@ -1,0 +1,1 @@
+Modifico il file da un altro computer poi faccio commit e push
